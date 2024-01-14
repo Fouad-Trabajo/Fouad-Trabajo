@@ -1,4 +1,3 @@
-### Hello everyone, welcome to my GitHub account 👋
 <p width="400">
   <h1>Hello everyone, welcome to my GitHub account</h1>
 </p>
