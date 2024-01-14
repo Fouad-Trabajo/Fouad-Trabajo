@@ -1,5 +1,4 @@
 ### Hello everyone, welcome to my GitHub account 👋
-<img src="">
 <!--
 **Fouad-Trabajo/Fouad-Trabajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
