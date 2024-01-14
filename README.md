@@ -1,6 +1,6 @@
 <p width="400">
   <h1>Hello everyone, welcome to my GitHub account</h1>
-  <img src="[https://Banner GitHub.png](https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png)">
+  <img src="https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png">
 </p>
 <!--
 **Fouad-Trabajo/Fouad-Trabajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
