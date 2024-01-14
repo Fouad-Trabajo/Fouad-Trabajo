@@ -1,4 +1,4 @@
-<p width="400" text-align="center">
+<p width="400" text-align="end">
   <h1>Hello everyone, welcome to my GitHub account</h1>
   <img src="https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png">
 </p>
