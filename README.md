@@ -3,8 +3,7 @@
 <h3 align="center">Passionate about programming and problem solving</h3>
 
 #### This is my github account
-<p align="center">![This is my github account](https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png)
-</p>
+<img align="center" src"https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png">
 Hello, 😊 I am a 20-year-old young man with knowledge in html, css, java, github. And every day learning a little more.
 I consider myself a self-taught, persevering, resilient, decisive, kind person and I love helping my colleagues.
 
