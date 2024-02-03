@@ -1,7 +1,10 @@
-### Hi 👋, My name is Fouad Aharchi Aharchi
-#### This is my github account
-![This is my github account](https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png)
 
+<h1 align="center">Hi 👋, I'm Fouad Aharchi Aharchi</h1>
+<h3 align="center">Passionate about programming and problem solving</h3>
+
+#### This is my github account
+<p align="center">![This is my github account](https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png)
+</p>
 Hello, 😊 I am a 20-year-old young man with knowledge in html, css, java, github. And every day learning a little more.
 I consider myself a self-taught, persevering, resilient, decisive, kind person and I love helping my colleagues.
 
@@ -11,9 +14,6 @@ I look for new challenges that force me to work twice as hard and bring out the 
 I would like to be part of a work group where we all achieve a reciprocal relationship based on respect and trust. Also where I can learn about the position and develop as a person thanks to the team.
 
 Habilidades: Web programmer | Java | CSS |
-
-<h1 align="center">Hi 👋, I'm Fouad Aharchi Aharchi</h1>
-<h3 align="center">Passionate about programming and problem solving</h3>
 
 - 🌱 I’m currently learning **Grado Superior DAM**
 
