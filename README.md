@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Fouad Aharchi Aharchi</h1>
-<h3 align="center">This is my github account<br>Passionate about programming and problems</h3>
+<h2 align="center">This is my github account<br>Passionate about programming and problems</h3>
 
 
 <img align="center" src="https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png">
