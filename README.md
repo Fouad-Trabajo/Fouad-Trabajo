@@ -5,10 +5,10 @@
 
 <img align="center" src="https://raw.githubusercontent.com/Fouad-Trabajo/Fouad-Trabajo/master/Banner%20GitHub.png">
 Hello, 😊 I am a 20-year-old young man with knowledge in html, css, java, github. And every day learning a little more.
-I consider myself a self-taught, persevering, resilient, decisive, kind person and I love helping my colleagues.
+I consider myself a self-taught, persistent, resilient, decisive, kind person and I love helping my colleagues.
 
 With hard work and an insatiable thirst for knowledge you can achieve anything.
-I look for new challenges that force me to work twice as hard and bring out the best version of myself.
+I look for new challenges that forces me to work twice as hard and bring out the best version of myself.
 
 I would like to be part of a work group where we all achieve a reciprocal relationship based on respect and trust. Also where I can learn about the position and develop as a person thanks to the team.
 
