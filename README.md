@@ -20,7 +20,7 @@ Skills: Web programmer | Java | CSS | Android programmer | Kotlin
 
 - 🌱 I’m currently learning **Grado Superior DAM**
 
-- 📝 I regularly write articles on www.linkedin.com/in/fouad-aharchi-aharchi/
+- 📝 I regularly write articles on [Linkedin](www.linkedin.com/in/fouad-aharchi-aharchi/)
 
 - 📫 How to reach me **foauadaharchi1@gmail.com**
 
