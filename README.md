@@ -22,7 +22,7 @@ Skills: Web programmer | Java | CSS | Android programmer | Kotlin
 
 - 📝 I regularly write articles on [Linkedin](https://www.linkedin.com/in/fouad-aharchi-aharchi/)
 
-- 📫 How to reach me **foauadaharchi1@gmail.com**
+- 📫 How to reach me **fouadaharchi1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
