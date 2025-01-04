@@ -14,13 +14,13 @@ I look for new challenges that forces me to work twice as hard and bring out the
 
 I would like to be part of a work group where we all achieve a reciprocal relationship based on respect and trust. Also where I can learn about the position and develop as a person thanks to the team.
 
-Habilidades: Web programmer | Java | CSS | Android programmer | Kotlin
+Skills: Web programmer | Java | CSS | Android programmer | Kotlin
 
-- 🔭 I’m currently working on [android-meceiot](https://github.com/iesalonsodemadrigal/android-meceiot.git)
+- 🔭 I’m currently working on project: [android-meceiot](https://github.com/iesalonsodemadrigal/android-meceiot.git)
 
 - 🌱 I’m currently learning **Grado Superior DAM**
 
-- 📝 I regularly write articles on [Linkedin:Fouad-profile](www.linkedin.com/in/fouad-aharchi-aharchi)
+- 📝 I regularly write articles on [Linkedin:Fouad-profile](www.linkedin.com/in/fouad-aharchi-aharchi/)
 
 - 📫 How to reach me **foauadaharchi1@gmail.com**
 
