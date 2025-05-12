@@ -16,7 +16,7 @@ I would like to be part of a work group where we all achieve a reciprocal relati
 
 Skills: Web programmer | Java | CSS | Android programmer | Kotlin
 
-- 🔭 I’m currently working on project: [android-meceiot](https://github.com/iesalonsodemadrigal/android-meceiot.git)
+- 🔭 I’m currently working on project: [astralis-sky](https://github.com/Fouad-Trabajo/astralis-sky)
 
 - 🌱 I’m currently learning **Grado Superior DAM**
 
